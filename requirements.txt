@@ -1,8 +1,10 @@
 jupyter
+pandas
 ipywidgets
 tqdm
 nltk
 scipy<1.14
 gensim
 pyLDAvis
+
 matplotlib
